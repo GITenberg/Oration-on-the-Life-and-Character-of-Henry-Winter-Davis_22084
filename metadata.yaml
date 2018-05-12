@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25087'
     url: http://www.gutenberg.org/2009/agents/25087
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22084#Oration-on-the-Life-and-Character-of-Henry-Winter-Davis
 gutenberg_issued: '2007-07-16'
 gutenberg_type: Text
 identifiers:
