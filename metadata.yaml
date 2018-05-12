@@ -1,0 +1,32 @@
+_repo: Oration-on-the-Life-and-Character-of-Henry-Winter-Davis_22084
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Creswell, John A. J. (John Angel James)
+    aliases:
+    - Creswell, John A. J. (John Andrew Jackson)
+    - Cresswell, J. A. J. (John Angel James)
+    birthdate: 1828
+    deathdate: 1891
+    gutenberg_agent_id: '25087'
+    url: http://www.gutenberg.org/2009/agents/25087
+description: ''
+gutenberg_issued: '2007-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22084'
+  lccn: '10027901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Davis, Henry Winter, 1817-1865'
+- !lcsh 'Legislators -- United States -- Biography'
+- !lcsh 'Abolitionists -- United States -- Biography'
+title: Oration on the Life and Character of Henry Winter Davis
+url: http://www.gutenberg.org/ebooks/22084
